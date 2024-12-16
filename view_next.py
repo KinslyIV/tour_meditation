@@ -1,0 +1,15 @@
+from head import *
+
+set_dmem_week()
+print(get_members())
+print()
+print(get_mem_week())
+print()
+print(get_udmem_week())
+print()
+print(get_dmem_week())
+print()
+print(get_dmem_last_week())
+print()
+set_next_week()
+print(get_next_week())
