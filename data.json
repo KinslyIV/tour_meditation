@@ -1,0 +1,44 @@
+{
+    "members": [
+        "Boby",
+        "Cathy",
+        "Corine",
+        "Danie",
+        "Daniella",
+        "Ludo",
+        "Ma Muriel",
+        "MaeSon",
+        "Mama Sandrine",
+        "Russel",
+        "Stella",
+        "Ta Rikia",
+        "Teclaire",
+        "Winnie"
+    ],
+    "members_week": [
+        "Ta Rikia",
+        "Danie",
+        "MaeSon",
+        "Corine",
+        "Mama Sandrine",
+        "Daniella",
+        "Ma Muriel"
+    ],
+    "disc_mem_week": [
+        "Ta Rikia",
+        "Danie"
+    ],
+    "disc_mem_last_week": [
+        "Boby",
+        "Cathy"
+    ],
+    "next_week": [
+        "MaeSon",
+        "Corine",
+        "Mama Sandrine",
+        "Daniella",
+        "Ma Muriel",
+        "Ludo",
+        "Russel"
+    ]
+}
